@@ -1,0 +1,77 @@
+body{
+	background: url("../images/background6.jpg")no-repeat center fixed;
+}
+
+div {
+	border-style: solid;
+	border-width: 5px;
+	border-radius: 25px;
+	padding: 30px;
+	border-color: black;
+	background-color: rgba(0, 0, 0, 0.6);
+	box-shadow: 6px 6px 3px black;
+	font-family: 'Shadows Into Light', cursive;
+}
+
+h1{
+	text-align: center;
+}
+
+.container {
+	border-style: none;
+	border-width: 0px;
+	border-radius: 0px;
+	padding: 25px;
+	border: 0px;
+	border-color: none;
+	background-color: transparent;
+	box-shadow: none;
+}
+
+.row{
+	border-style: none;
+	border-color: none;
+	background-color: transparent;
+	box-shadow: none;
+}
+
+.list-group-item{
+	background-color: rgba(0, 0, 0, 0.6);
+}
+
+.col-md-1{
+	border-style: none;
+	border-width: 0px;
+	border-radius: 0px;
+	padding: 0px;
+	border: 0px;
+	border-color: none;
+	background-color: transparent;
+	box-shadow: none;
+}
+
+.col-md-3{
+	height: 150px;
+}
+
+.col-md-4{
+	background-color: rgba(129, 48, 179, 0.6);
+}
+
+.col-md-8{
+	background-color: rgba(129, 48, 179, 0.6);
+}
+
+.col-md-9{
+	height: 150px;
+}
+
+.col-md-10{
+	padding: 0px;
+	height: 300px;
+}
+
+.col-md-12{
+	margin-top: 20px;
+	height: 333px;
+}
