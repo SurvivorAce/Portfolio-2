@@ -17,6 +17,15 @@ h1{
 	text-align: center;
 }
 
+@media screen and(max-width:320px){
+	div{
+		width: 100%;
+	}
+	.col-md-12{
+		width: 100%;
+	}
+}
+
 .row{
 	border-style: none;
 	border-color: none;
@@ -26,11 +35,6 @@ h1{
 
 .list-group-item{
 	background-color: rgba(0, 0, 0, 0.6);
-}
-
-.col-md-4{
-	text-align: center;
-	background-color: rgba(196, 27, 27, 0.6);
 }
 
 .col-md-12{
@@ -45,9 +49,4 @@ h1{
 .text1{
 	text-align: center;
 	text-decoration: line-through;
-}
-
-.resize{
-	height: 210px;
-	width: 280px;
 }
