@@ -17,6 +17,21 @@ h1{
 	text-align: center;
 }
 
+@media screen and(max-width:320px){
+	div{
+		width: 100%;
+	}
+	img{
+		width: 100%;
+	}
+	.col-md-4{
+		width: 100%;
+	}
+	.col-md-12{
+		width: 100%;
+	}
+}
+
 .row{
 	border-style: none;
 	border-color: none;
