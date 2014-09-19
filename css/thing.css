@@ -21,6 +21,12 @@ h1{
 	div{
 		width: 100%;
 	}
+	img{
+		width: 100%;
+	}
+	.col-md-2{
+		width: 100%;
+	}
 	.col-md-12{
 		width: 100%;
 	}
@@ -35,6 +41,10 @@ h1{
 
 .list-group-item{
 	background-color: rgba(0, 0, 0, 0.6);
+}
+
+.col-md-2{
+	padding: 10px;
 }
 
 .col-md-12{
