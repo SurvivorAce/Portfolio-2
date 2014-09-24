@@ -45,7 +45,9 @@ h1{
 
 .col-md-4{
 	text-align: center;
-	background-color: rgba(41, 14, 120, 0.6);
+	background-color: transparent;
+	box-shadow: none;
+	height: 400px;
 }
 
 .col-md-12{
@@ -59,4 +61,19 @@ h1{
 
 .resize{
 	height: 240px;
+}
+
+.thumbnail{
+	border: solid 5px;
+	background-color: transparent;
+	border-color: black;
+	padding: 0px;
+	border-radius: 0px;
+	box-shadow: none;
+}
+
+.caption{
+	border: solid black 3px;
+	border-radius: 0px;
+	box-shadow: none;
 }
