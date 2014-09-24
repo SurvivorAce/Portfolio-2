@@ -30,6 +30,12 @@ h1{
 	.col-md-12{
 		width: 100%;
 	}
+	.thumbnail{
+		width: 100%;
+	}
+	.caption{
+		width: 100%;
+	}
 }
 
 .row{
@@ -76,4 +82,8 @@ h1{
 	border: solid black 3px;
 	border-radius: 0px;
 	box-shadow: none;
+}
+
+.img-responsive,.thumbnail>img{
+	height: 300px;
 }
