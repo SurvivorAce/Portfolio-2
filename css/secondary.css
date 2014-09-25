@@ -89,3 +89,20 @@ h1{
 .img-responsive,.thumbnail>img{
 	height: 300px;
 }
+
+#carousel-example-generic{
+	width: 500px;
+	margin-left: 28%;
+}
+
+.carousel-inner{
+	border-style: none;
+	border-radius: 0px;	
+	box-shadow: none;
+}
+
+.item{
+	border-style: none;
+	border-radius: 0px;
+	box-shadow: none;	
+}
