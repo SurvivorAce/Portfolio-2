@@ -76,6 +76,7 @@ h1{
 
 .col-md-3{
 	height: 150px;
+	padding: 0px 12px 12px 12px;
 }
 
 .col-md-4{
@@ -102,4 +103,14 @@ h1{
 
 .text{
 	text-align: center;
+}
+
+.modal-dialong, .modal-content, .modal-header, .modal-body, .modal-footer{
+	border-style: none;
+	border-radius: 0px;
+}
+
+.modal-body, .modal-footer{
+	background-color: transparent;
+	box-shadow: none;
 }
