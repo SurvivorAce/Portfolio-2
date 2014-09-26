@@ -39,6 +39,9 @@ h1{
 	.col-md-12{
 		width: 100%;
 	}
+	.modal-header, .modal-body, .modal-footer{
+		width: 100%;
+	}
 }
 
 .container {
